@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://trenmovie.github.io/trenmovie/sitemap.xml
