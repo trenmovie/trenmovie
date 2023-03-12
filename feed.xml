@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Trenmovie</title>
-    <link href="https://trenmovie.github.io/trenmovie/feed.xml" rel="self" />
-    <link href="https://trenmovie.github.io/trenmovie" />
+    <title>Trending Movies</title>
+    <link href="https://www.trenmovie.com/feed.xml" rel="self" />
+    <link href="https://www.trenmovie.com" />
     <updated>2023-03-12T17:30:49+00:00</updated>
     <author>
         <name>Trendy5</name>
     </author>
-    <id>https://trenmovie.github.io/trenmovie</id>
+    <id>https://www.trenmovie.com</id>
 
     <entry>
         <title>Oscars 2023: Who will win and how to watch the ceremony</title>
         <author>
             <name>Trendy5</name>
         </author>
-        <link href="https://trenmovie.github.io/trenmovie/oscars-2023-who-will-win-and-how-to-watch-the-ceremony.html"/>
-        <id>https://trenmovie.github.io/trenmovie/oscars-2023-who-will-win-and-how-to-watch-the-ceremony.html</id>
+        <link href="https://www.trenmovie.com/oscars-2023-who-will-win-and-how-to-watch-the-ceremony.html"/>
+        <id>https://www.trenmovie.com/oscars-2023-who-will-win-and-how-to-watch-the-ceremony.html</id>
 
         <updated>2023-03-12T17:30:49+00:00</updated>
             <summary>
                 <![CDATA[
-                    All eyes will be on Hollywood later to see whether Everything Everywhere All At Once can cap its extraordinary awards season by sweeping the Oscars. The eccentric multiverse adventure is the favourite to win best picture after success at a host of precursor events. But&hellip;
+                    All eyes will be on Hollywood later to see whether Everything Everywhere All At Once can cap its extraordinary awards&hellip;
                 ]]>
             </summary>
         <content type="html">
