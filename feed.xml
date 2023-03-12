@@ -3,12 +3,24 @@
     <title>Trending Movies</title>
     <link href="https://www.trenmovie.com/feed.xml" rel="self" />
     <link href="https://www.trenmovie.com" />
-    <updated>2023-03-12T18:56:22+00:00</updated>
+    <updated>2023-03-12T19:13:45+00:00</updated>
     <author>
         <name>Trendy5</name>
     </author>
     <id>https://www.trenmovie.com</id>
 
+    <entry>
+        <title>Bollywood Movies 2023</title>
+        <author>
+            <name>Trendy5</name>
+        </author>
+        <link href="https://www.trenmovie.com/trending-movies.html"/>
+        <id>https://www.trenmovie.com/trending-movies.html</id>
+
+        <updated>2023-03-12T19:13:45+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Stars gear up for Oscars ceremony in Los Angeles</title>
         <author>
